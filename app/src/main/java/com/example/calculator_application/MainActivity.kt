@@ -1,10 +1,10 @@
-package com.example.learning_application_3
+package com.example.calculator_application
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import android.widget.Button
-import com.example.learning_application_3.databinding.ActivityMainBinding
+import com.example.calculator_application.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding

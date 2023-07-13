@@ -4,7 +4,7 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "com.example.learning_application_3",
+  "applicationId": "com.example.calculator_application",
   "variantName": "release",
   "elements": [
     {
